@@ -1,3 +1,6 @@
+## About This Project
+This project is part of my hands-on cybersecurity learning journey as I transition into the field.
+
 # Wireshark---Network-Traffic-Analysis-
 This lab focused on analyzing network traffic using Wireshark. I learned how to capture, filter, and inspect packets to identify normal and suspicious activity.
 
